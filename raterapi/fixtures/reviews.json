@@ -1,0 +1,38 @@
+[
+  {
+    "model": "raterapi.review",
+    "pk": 1,
+    "fields": {
+      "gameId": 1,
+      "userId": 2,
+      "rating": 9,
+      "comment": "Loved the depth of strategy!",
+      "date": "2025-06-15T14:23:00Z",
+      "imgUrl": "http://example.com/review1.png"
+    }
+  },
+  {
+    "model": "raterapi.review",
+    "pk": 2,
+    "fields": {
+      "gameId": 2,
+      "userId": 3,
+      "rating": 7,
+      "comment": "Good fun but a bit repetitive",
+      "date": "2025-06-20T18:47:00Z",
+      "imgUrl": "http://example.com/review2.png"
+    }
+  },
+  {
+    "model": "raterapi.review",
+    "pk": 3,
+    "fields": {
+      "gameId": 3,
+      "userId": 1,
+      "rating": 8,
+      "comment": "Perfect for game night!",
+      "date": "2025-07-01T21:15:00Z",
+      "imgUrl": "http://example.com/review3.png"
+    }
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "model": "raterapi.game",
+    "pk": 1,
+    "fields": {
+      "title": "Kingdom Conquest",
+      "description": "A medieval strategy game",
+      "designer": "Alice Romero",
+      "playerCount": 4,
+      "totalTime": 90,
+      "ageRequired": 12,
+      "avgRating": 8,
+      "userId": 1
+    }
+  },
+  {
+    "model": "raterapi.game",
+    "pk": 2,
+    "fields": {
+      "title": "Alien Bounty",
+      "description": "Sci-fi survival and resource management",
+      "designer": "Jonas Wei",
+      "playerCount": 2,
+      "totalTime": 60,
+      "ageRequired": 10,
+      "avgRating": 9,
+      "userId": 2
+    }
+  },
+  {
+    "model": "raterapi.game",
+    "pk": 3,
+    "fields": {
+      "title": "Mystic Market",
+      "description": "A game of trading potions in a magical economy",
+      "designer": "Daria Chen",
+      "playerCount": 6,
+      "totalTime": 45,
+      "ageRequired": 8,
+      "avgRating": 7,
+      "userId": 3
+    }
+  }
+]

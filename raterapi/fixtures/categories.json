@@ -1,0 +1,106 @@
+[
+  {
+    "model": "raterapi.category",
+    "pk": 1,
+    "fields": {
+      "name": "Strategy",
+      "date": "2024-01-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "raterapi.category",
+    "pk": 2,
+    "fields": {
+      "name": "Sci-Fi",
+      "date": "2024-01-02T11:00:00Z"
+    }
+  },
+  {
+    "model": "raterapi.category",
+    "pk": 3,
+    "fields": {
+      "name": "Fantasy",
+      "date": "2024-01-03T12:00:00Z"
+    }
+  },
+  {
+    "model": "raterapi.category",
+    "pk": 4,
+    "fields": {
+      "name": "Dice",
+      "date": "2024-02-03T12:00:00Z"
+    }
+  },
+  {
+    "model": "raterapi.category",
+    "pk": 5,
+    "fields": {
+      "name": "Card",
+      "date": "2024-03-03T12:00:00Z"
+    }
+  },
+  {
+    "model": "raterapi.category",
+    "pk": 6,
+    "fields": {
+      "name": "Miniature",
+      "date": "2024-04-03T12:00:00Z"
+    }
+  },
+  {
+    "model": "raterapi.category",
+    "pk": 7,
+    "fields": {
+      "name": "Deck Building",
+      "date": "2024-05-03T12:00:00Z"
+    }
+  },
+  {
+    "model": "raterapi.category",
+    "pk": 8,
+    "fields": {
+      "name": "Role Playing",
+      "date": "2024-06-03T12:00:00Z"
+    }
+  },
+  {
+    "model": "raterapi.category",
+    "pk": 9,
+    "fields": {
+      "name": "Sports",
+      "date": "2024-07-03T12:00:00Z"
+    }
+  },
+  {
+    "model": "raterapi.category",
+    "pk": 10,
+    "fields": {
+      "name": "Sports",
+      "date": "2024-08-03T12:00:00Z"
+    }
+  },
+  {
+    "model": "raterapi.category",
+    "pk": 11,
+    "fields": {
+      "name": "Adventure",
+      "date": "2024-09-03T12:00:00Z"
+    }
+  },
+  {
+    "model": "raterapi.category",
+    "pk": 12,
+    "fields": {
+      "name": "Cooperative",
+      "date": "2024-10-03T12:00:00Z"
+    }
+  },
+  {
+    "model": "raterapi.category",
+    "pk": 13,
+    "fields": {
+      "name": "Battle",
+      "date": "2025-01-03T12:00:00Z"
+    }
+  }
+]
